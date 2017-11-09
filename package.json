@@ -38,7 +38,7 @@
     }
   ],
   "dependencies": {
-    "zrender": "^3.5.1"
+    "zrender": "https://github.com/mengxiaozhuFE/echarts-zrender-V3.5.1"
   },
   "description": "A powerful charting and visualization library for browser",
   "devDependencies": {
