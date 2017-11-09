@@ -1,4 +1,4 @@
-# ECharts
+# ECharts[3.6.1]
 
 <a href="http://echarts.baidu.com">
     <img style="vertical-align: top;" src="./asset/logo.png?raw=true" alt="logo" height="50px">
@@ -120,3 +120,4 @@ ECharts-GL is an extension pack of echarts, which providing 3D plots, globe visu
 ## License
 
 ECharts is available under the BSD license.
+
