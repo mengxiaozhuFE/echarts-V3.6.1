@@ -49,7 +49,7 @@
     "fs-extra": "^0.26.5",
     "glob": "^7.0.0",
     "webpack": "^1.12.13",
-    "zrender": "^3.5.1"
+    "zrender": "https://github.com/mengxiaozhuFE/echarts-zrender-V3.5.1"
   },
   "homepage": "http://echarts.baidu.com/",
   "keywords": [
